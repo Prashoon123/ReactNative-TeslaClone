@@ -4,7 +4,7 @@ const styles = StyleSheet.create({
   container: {
     width: "100%",
     position: "absolute",
-    top: 50,
+    top: 45,
     paddingHorizontal: 20,
     zIndex: 100,
     flexDirection: "row",
